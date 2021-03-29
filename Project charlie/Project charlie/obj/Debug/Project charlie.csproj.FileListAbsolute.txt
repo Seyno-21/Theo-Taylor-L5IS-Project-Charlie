@@ -1,0 +1,15 @@
+C:\Users\theot\source\repos\Project charlie\Project charlie\bin\Debug\Project charlie.exe.config
+C:\Users\theot\source\repos\Project charlie\Project charlie\bin\Debug\Project charlie.exe
+C:\Users\theot\source\repos\Project charlie\Project charlie\bin\Debug\Project charlie.pdb
+C:\Users\theot\source\repos\Project charlie\Project charlie\obj\Debug\Project charlie.csprojAssemblyReference.cache
+C:\Users\theot\source\repos\Project charlie\Project charlie\obj\Debug\Project_charlie.Form1.resources
+C:\Users\theot\source\repos\Project charlie\Project charlie\obj\Debug\Project_charlie.Form2.resources
+C:\Users\theot\source\repos\Project charlie\Project charlie\obj\Debug\Project_charlie.Properties.Resources.resources
+C:\Users\theot\source\repos\Project charlie\Project charlie\obj\Debug\Project charlie.csproj.GenerateResource.cache
+C:\Users\theot\source\repos\Project charlie\Project charlie\obj\Debug\Project charlie.csproj.CoreCompileInputs.cache
+C:\Users\theot\source\repos\Project charlie\Project charlie\obj\Debug\Project charlie.exe
+C:\Users\theot\source\repos\Project charlie\Project charlie\obj\Debug\Project charlie.pdb
+C:\Users\theot\source\repos\Project charlie\Project charlie\bin\Debug\Project charlie.exe.manifest
+C:\Users\theot\source\repos\Project charlie\Project charlie\bin\Debug\Project charlie.application
+C:\Users\theot\source\repos\Project charlie\Project charlie\obj\Debug\Project charlie.exe.manifest
+C:\Users\theot\source\repos\Project charlie\Project charlie\obj\Debug\Project charlie.application
